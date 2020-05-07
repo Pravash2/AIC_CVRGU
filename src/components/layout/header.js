@@ -12,7 +12,7 @@ const Header = ({ siteTitle }) => (
     <nav className="navbar navbar-expand-lg navbar-light">
       <Link className="navbar-brand" to="/">
         <img
-          style={{ width: "250px" }}
+          style={{ width: "300px" }}
           src={require("../../assets/img/logo.png")}
           alt="logo"
         />
