@@ -1,0 +1,51 @@
+#resource .heading {
+  font-size: 2rem;
+  text-align: center;
+  padding: 10px;
+}
+#resource .main {
+  margin-left: 1vw;
+  list-style: none;
+}
+
+#resource .firstlist {
+  font-size: 1.5rem;
+  margin: 10px 5vw;
+  text-transform: capitalize;
+  cursor: pointer;
+  position: relative;
+}
+#resource .firstlist::before {
+  content: "";
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  height: 1px;
+  background-color: #ccc;
+  width: 40%;
+  margin-top: 20px;
+  margin-left: 20px;
+}
+#resource .secondlist {
+  font-size: 1rem;
+}
+
+@media screen and (max-width: 600px) {
+  #resource .heading {
+    font-size: 1.5rem;
+    text-align: center;
+  }
+  #resource ul {
+    margin: 0;
+    list-style: none;
+    padding: 10px 20px;
+  }
+  #resource .firstlist {
+    font-size: 1.2rem;
+    margin-left: 0vw;
+    text-transform: capitalize;
+  }
+  #resource .secondlist {
+    font-size: 0.8rem;
+  }
+}
