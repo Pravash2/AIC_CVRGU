@@ -181,7 +181,7 @@ export default class Landing extends Component {
         <Testimonial />*/}
         {/* <Gallery /> */}
         <Partner />
-        <Blog />
+        {/* <Blog /> */}
       </div>
     )
   }
