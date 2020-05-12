@@ -100,8 +100,8 @@ class Footer extends React.Component {
                     </li>
                     <li>
                       <i data-feather="mail" /> Email:{" "}
-                      <a href="mailto:incubation_tbi@cvrgi.edu.in">
-                        incubation_tbi@cvrgi.edu.in
+                      <a href="mailto:incubation_aic@cvrgi.edu.in">
+                        incubation_aic@cvrgi.edu.in
                       </a>
                     </li>
                     <li>
