@@ -140,47 +140,6 @@ export default class SimpleSlider extends React.Component {
               <div className="single-team" style={{ padding: 0 }}>
                 <div className="">
                   <img
-                    src={require("../../../assets/img/team-image/team6.jpg")}
-                    alt="teamimage"
-                    style={{ width: "80%" }}
-                  />
-                </div>
-
-                <div className="team-content" style={{ padding: "10px 5px" }}>
-                  <div className="">
-                    <h4>Mr. Dhananjay Suthar</h4>
-                    <span>Incubation Manager</span>
-                  </div>
-
-                  <ul>
-                    <li>
-                      <a href="#">
-                        <i data-feather="facebook"></i>
-                      </a>
-                    </li>
-                    <li>
-                      <a href="#">
-                        <i data-feather="twitter"></i>
-                      </a>
-                    </li>
-                    <li>
-                      <a href="#">
-                        <i data-feather="linkedin"></i>
-                      </a>
-                    </li>
-                    <li>
-                      <a href="#">
-                        <i data-feather="gitlab"></i>
-                      </a>
-                    </li>
-                  </ul>
-                </div>
-              </div>
-            </div>
-            <div className="col-lg-4 col-md-6 col-sm-12">
-              <div className="single-team" style={{ padding: 0 }}>
-                <div className="">
-                  <img
                     src={require("../../../assets/img/team-image/team4.png")}
                     alt="teamimage"
                     style={{ width: "80%" }}

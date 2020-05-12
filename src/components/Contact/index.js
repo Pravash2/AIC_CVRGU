@@ -42,8 +42,8 @@ export default class Contact extends Component {
                   </div>
                   <h3>Mail Here</h3>
                   <p>
-                    <a href="mailto:incubation_tbi@cvrgi.edu.in">
-                      incubation_tbi@cvrgi.edu.in
+                    <a href="mailto:incubation_aic@cvrgi.edu.in">
+                      incubation_aic@cvrgi.edu.in
                     </a>
                   </p>
                 </div>
@@ -70,10 +70,13 @@ export default class Contact extends Component {
                   </div>
                   <h3>Call Here</h3>
                   <p>
+                    <a href="mobto:9778751177">+91 977 875 1177</a>
+                  </p>
+                  <p>
                     <a href="mobto:9790927896">+91 979 092 7896</a>
                   </p>
                   <p>
-                    <a href="mobto:9778751177">+91 977 875 1177 </a>
+                    <a href="mobto:9658160621">+91 965 816 0621 </a>
                   </p>
                 </div>
               </div>
