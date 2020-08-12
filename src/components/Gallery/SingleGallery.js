@@ -33,15 +33,15 @@ const SingleGallery = ({ search }) => {
   `)
 
   const items = data.allContentfulGallery.edges.filter(
-    item => item.node.id === search.id
+    (item) => item.node.id === search.id
   )[0]
     ? data.allContentfulGallery.edges.filter(
-        item => item.node.id === search.id
+        (item) => item.node.id === search.id
       )[0].node
     : []
   if (items) {
     const encodedUrl = encodeURIComponent(
-      `https://cvrcetbi.com/singleGallery?id=${items.id}`
+      `https://AIC-CGU.com/singleGallery?id=${items.id}`
     )
     const encodedTitle = encodeURIComponent(items.title)
     const encodedTags = items.category ? items.category.join(",") : ""
@@ -89,7 +89,7 @@ const SingleGallery = ({ search }) => {
                     <div className="single-info-box">
                       <h4>Category</h4>
                       {items.category
-                        ? items.category.map(item => <p>{item}</p>)
+                        ? items.category.map((item) => <p>{item}</p>)
                         : ""}
                     </div>
 

@@ -20,9 +20,8 @@ class Footer extends React.Component {
                     </a>
                   </div>
                   <p style={{ textAlign: "justify" }}>
-                    We are CVRCE- Technology Business Incubator founded in 2019,
-                    a non-profit organization catalyzing the entrepreneurial
-                    movement in India.
+                    We are AIC-CGU founded in 2019, a non-profit organization
+                    catalyzing the entrepreneurial movement in India.
                   </p>
                 </div>
               </div>
@@ -152,7 +151,7 @@ class Footer extends React.Component {
 
               <div className="col-lg-12 col-md-12">
                 <div className="copyright-area">
-                  <p>Copyright @2019 CVRCE TBI. All rights reserved</p>
+                  <p>Copyright @2019 AIC-CGU. All rights reserved</p>
                   <p>
                     Curated with <i className="fa fa-heart"></i> by{" "}
                     <a href="http://www.pravash.tech" target="_blank">

@@ -17,7 +17,7 @@ export default class index extends Component {
 
         <div className="partner-area partner-section">
           <div className="container">
-            <h5>CVRCE Technology Business Incubator being supported by,</h5>
+            <h5>AIC-CGU being supported by,</h5>
 
             <div className="partner-inner">
               <div style={{ display: "flex", justifyContent: "space-around" }}>

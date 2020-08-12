@@ -31,12 +31,12 @@ const SingleGallery = ({ search }) => {
   `)
 
   const items = data.allContentfulNews.nodes.filter(
-    item => item.id === search.id
+    (item) => item.id === search.id
   )[0]
 
   if (items) {
     const encodedUrl = encodeURIComponent(
-      `https://cvrcetbi.com/singleNews?id=${items.id}`
+      `https://AIC-CGU.com/singleNews?id=${items.id}`
     )
     const encodedTitle = encodeURIComponent(items.title)
     const encodedTags = items.tags ? items.tags.join(",") : ""
@@ -68,7 +68,7 @@ const SingleGallery = ({ search }) => {
                       <div className="article-content">
                         <ul className="category">
                           {items.tags
-                            ? items.tags.map(item => (
+                            ? items.tags.map((item) => (
                                 <li>
                                   <a href="#">{item}</a>
                                 </li>

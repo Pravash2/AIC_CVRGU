@@ -42,12 +42,11 @@ class About extends Component {
                   </div>
 
                   <p>
-                    We are CVRCE- Technology Business Incubator founded in 2019,
-                    a non-profit organization with an integral role in
-                    catalyzing the entrepreneurial movement in India. By
-                    supporting entrepreneurs and start-up ideas, we will
-                    highlight India's reputation as a destination for
-                    Entrepreneurship and Innovation.
+                    We are AIC-CGU founded in 2019, a non-profit organization
+                    with an integral role in catalyzing the entrepreneurial
+                    movement in India. By supporting entrepreneurs and start-up
+                    ideas, we will highlight India's reputation as a destination
+                    for Entrepreneurship and Innovation.
                   </p>
 
                   <p>
