@@ -15,10 +15,11 @@ export default function App() {
               <p>
                 We already have innovators & students across the nation who had
                 made success stories within Various Competitions, World Skills
-                and Hackathons. CVRCE TIF envisions to take them beyond this
-                limit and achieve more heights. Thus, Calling them to showcase
-                their innovative idea and start their own entrepreneurial
-                journey with us. Registrations already live at
+                and Hackathons. C. V. Raman Global University TIF envisions to
+                take them beyond this limit and achieve more heights. Thus,
+                Calling them to showcase their innovative idea and start their
+                own entrepreneurial journey with us. Registrations already live
+                at
                 <a
                   className="btn-primary p-1"
                   target="_blank"
@@ -35,11 +36,12 @@ export default function App() {
             <div class="about-text">
               <h3>Meri Yatra: </h3>
               <p>
-                “Meri Yatra” is one of the Initiative taken by CVRCE TIF, as the
-                name itself denotes individual's own Journey. Hence, this
-                initiative will act as a platform for entrepreneurs to share
-                journeys that matters, Ideas to be mobilized and much more. Our
-                belief Statement: “Local people inspiring globally”.
+                “Meri Yatra” is one of the Initiative taken by C. V. Raman
+                Global University TIF, as the name itself denotes individual's
+                own Journey. Hence, this initiative will act as a platform for
+                entrepreneurs to share journeys that matters, Ideas to be
+                mobilized and much more. Our belief Statement: “Local people
+                inspiring globally”.
               </p>
             </div>
           </div>
@@ -48,13 +50,13 @@ export default function App() {
             <div class="about-text">
               <h3>Student Associate Program:</h3>
               <p>
-                Student Associate Program is a unique initiative, where CVRCE
-                TIF is providing an opportunity for students to work as
-                Associates. We are looking for individuals who can act as the
-                team leaders as well as are having the ability to work as the
-                part of a team, in the focused areas like, Community Managers,
-                Content (Documentation),Events & outreach, Startup Research,
-                IPR, IT & Graphics.
+                Student Associate Program is a unique initiative, where C. V.
+                Raman Global University TIF is providing an opportunity for
+                students to work as Associates. We are looking for individuals
+                who can act as the team leaders as well as are having the
+                ability to work as the part of a team, in the focused areas
+                like, Community Managers, Content (Documentation),Events &
+                outreach, Startup Research, IPR, IT & Graphics.
               </p>
             </div>
           </div>

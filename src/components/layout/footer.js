@@ -93,7 +93,8 @@ class Footer extends React.Component {
                     <li>
                       <i data-feather="map-pin" /> 1st Floor Above Central
                       Library,
-                      <br />C V Raman College of Engineering,Bhubaneswar
+                      <br />
+                      C. V. Raman Global University,Bhubaneswar
                       <br />
                       Odisha-751007
                     </li>
