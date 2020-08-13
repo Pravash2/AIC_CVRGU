@@ -56,8 +56,8 @@ export default class Contact extends Component {
                   </div>
                   <h3>Visit Here</h3>
                   <p>
-                    1st floor, Above central library, C.V Raman college of
-                    engineering.
+                    Beside New Electrical building near Union Bank inside CV
+                    Raman Global University Campus
                   </p>
                   <p>Bidyanagar, Mahura, Janla Bhubaneswar,752054 (Orissa)</p>
                 </div>

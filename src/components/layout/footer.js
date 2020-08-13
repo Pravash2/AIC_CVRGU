@@ -20,8 +20,9 @@ class Footer extends React.Component {
                     </a>
                   </div>
                   <p style={{ textAlign: "justify" }}>
-                    We are AIC-CGU founded in 2019, a non-profit organization
-                    catalyzing the entrepreneurial movement in India.
+                    We are AIC-CVRCE Foundation founded in 2020, a non-profit
+                    organization catalyzing the entrepreneurial movement in
+                    India.
                   </p>
                 </div>
               </div>
@@ -91,10 +92,10 @@ class Footer extends React.Component {
 
                   <ul className="footer-contact-info">
                     <li>
-                      <i data-feather="map-pin" /> 1st Floor Above Central
-                      Library,
+                      <i data-feather="map-pin" /> Beside new Electrical
+                      building Near Union bank inside ,
                       <br />
-                      C. V. Raman Global University,Bhubaneswar
+                      C. V. Raman Global University Campus,Bhubaneswar
                       <br />
                       Odisha-751007
                     </li>
@@ -152,7 +153,7 @@ class Footer extends React.Component {
 
               <div className="col-lg-12 col-md-12">
                 <div className="copyright-area">
-                  <p>Copyright @2019 AIC-CGU. All rights reserved</p>
+                  <p>Copyright @2020 AIC-CGU. All rights reserved</p>
                   <p>
                     Curated with <i className="fa fa-heart"></i> by{" "}
                     <a href="http://www.pravash.tech" target="_blank">

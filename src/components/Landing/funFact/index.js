@@ -18,7 +18,7 @@ export default class index extends Component {
                 <div className="funfact">
                   <h3>
                     <span className="odometer" data-count="180">
-                      05
+                      10
                     </span>
                     +
                   </h3>
@@ -30,7 +30,7 @@ export default class index extends Component {
                 <div className="funfact">
                   <h3>
                     <span className="odometer" data-count="20">
-                      11
+                      15
                     </span>
                     +
                   </h3>
@@ -54,11 +54,11 @@ export default class index extends Component {
                 <div className="funfact">
                   <h3>
                     <span className="odometer" data-count="70">
-                      30
+                      50
                     </span>
                     +
                   </h3>
-                  <p>Associates</p>
+                  <p>Student Associate Program </p>
                 </div>
               </div>
             </div>
@@ -67,7 +67,7 @@ export default class index extends Component {
               <h3>Have any startup Idea ?</h3>
               <p>Don't hesitate to contact us</p>
               <a
-                href="https://bit.ly/tbi_apply_website"
+                href="http://bit.ly/AIC-CGU"
                 className="btn btn-primary"
                 target="_blank"
               >

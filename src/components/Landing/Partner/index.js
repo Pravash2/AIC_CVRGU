@@ -17,18 +17,34 @@ export default class index extends Component {
 
         <div className="partner-area partner-section">
           <div className="container">
-            <h5>AIC-CGU being supported by,</h5>
+            <h5>Our Ecosystem Partners</h5>
 
             <div className="partner-inner">
               <div style={{ display: "flex", justifyContent: "space-around" }}>
                 <div>
                   <a href="#">
                     <img
-                      src={require("../../../assets/img/100.png")}
+                      src={require("../../../assets/img/partner-img/wadhwni.png")}
+                      alt="partner"
+                      width="250px"
+                    />
+                    <img
+                      src={require("../../../assets/img/partner-img/wadhwni.png")}
+                      alt="partner"
+                      width="250px"
+                    />
+                  </a>
+                </div>
+                <div>
+                  <a href="#">
+                    <img
+                      src={require("../../../assets/img/partner-img/iic_logo.png")}
+                      width="200px"
                       alt="partner"
                     />
                     <img
-                      src={require("../../../assets/img/100.png")}
+                      width="200px"
+                      src={require("../../../assets/img/partner-img/iic_logo.png")}
                       alt="partner"
                     />
                   </a>
@@ -36,24 +52,28 @@ export default class index extends Component {
                 <div>
                   <a href="#">
                     <img
-                      src={require("../../../assets/img/101.png")}
+                      src={require("../../../assets/img/partner-img/GrowVation.png")}
                       alt="partner"
+                      width="120px"
                     />
                     <img
-                      src={require("../../../assets/img/101.png")}
+                      src={require("../../../assets/img/partner-img/GrowVation.png")}
                       alt="partner"
+                      width="120px"
                     />
                   </a>
                 </div>
                 <div>
                   <a href="#">
                     <img
-                      src={require("../../../assets/img/102.png")}
+                      src={require("../../../assets/img/partner-img/tech_logo.png")}
                       alt="partner"
+                      width="300px"
                     />
                     <img
-                      src={require("../../../assets/img/102.png")}
+                      src={require("../../../assets/img/partner-img/tech_logo.png")}
                       alt="partner"
+                      width="300px"
                     />
                   </a>
                 </div>

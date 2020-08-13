@@ -58,7 +58,7 @@ export default class index extends Component {
                       <div className="icon">
                         <i className="flaticon-rocket"></i>
                       </div>
-                      <h3>Supported by 27 COE's</h3>
+                      <h3>Supported by 25 COE's</h3>
                       <p>
                         Access to all Center of excellence's including but not
                         limited to IOT, Welding, Google, Automation, etc.

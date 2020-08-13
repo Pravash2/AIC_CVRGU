@@ -43,7 +43,7 @@ export default class index extends Component {
 
                   <div className="col-lg-6 col-md-6">
                     <div className="box">
-                      <i data-feather="folder"></i> 27 COE's
+                      <i data-feather="folder"></i> 25 COE's
                     </div>
                   </div>
 
@@ -61,7 +61,7 @@ export default class index extends Component {
 
                   <div className="col-lg-6 col-md-6">
                     <div className="box">
-                      <i data-feather="cloud"></i> Access to SAP
+                      <i data-feather="cloud"></i> Funding Assistant
                     </div>
                   </div>
                 </div>

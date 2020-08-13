@@ -33,28 +33,27 @@ class About extends Component {
                     <h2>About Us</h2>
                     <div class="bar"></div>
                     <p>
-                      We are a technology business incubator based in ODISHA
-                      supporting and nurturing startup companies by providing
-                      services such as incubation, modern office spaces,
-                      mentoring , networking opportunities, and rapid
-                      prototyping.
+                      We are AIC-CVRCE Foundation founded in 2020, a non-profit
+                      organization with an integral role in catalysing the
+                      entrepreneurial movement in India. By supporting
+                      entrepreneurs and start-up ideas, we will highlight
+                      India's reputation as a destination for Entrepreneurship
+                      and Innovation.
                     </p>
                   </div>
 
                   <p>
-                    We are AIC-CGU founded in 2019, a non-profit organization
-                    with an integral role in catalyzing the entrepreneurial
-                    movement in India. By supporting entrepreneurs and start-up
-                    ideas, we will highlight India's reputation as a destination
-                    for Entrepreneurship and Innovation.
-                  </p>
-
-                  <p>
-                    We will be India`s most sought after Technology Business
-                    Incubator committed to growing a collaborative
-                    entrepreneurial network by providing a one-stop support
-                    system for start-ups and transforming Orissa as a hub for
-                    innovation.
+                    AIC - CVRCE is one of the foundation to establish the Atal
+                    Incubation Centre under the Atal Innovation Mission (AIM) of
+                    National Institution for Transforming India (NITI Aayog). WE
+                    here envisions to build an ecosystem to enable technological
+                    innovation and solve the societal problem statements with
+                    effective solutions. Under this program, we support our
+                    incubated start-ups with facilities like initial
+                    brainstorming, furnishing ideas, consultancy, mentorship,
+                    networking, connecting to other subject matter experts,
+                    leading them to market access, in case if they get eligible,
+                    also connect/support with funds.
                   </p>
                 </div>
               </div>
@@ -62,7 +61,7 @@ class About extends Component {
 
             <div class="about-inner-area">
               <div class="row">
-                <div class="col-lg-4 col-md-6">
+                <div class="col-lg-6 col-md-6">
                   <div class="about-text">
                     <h3>Our Vision</h3>
                     <p>
@@ -72,22 +71,12 @@ class About extends Component {
                   </div>
                 </div>
 
-                <div class="col-lg-4 col-md-6">
+                <div class="col-lg-6 col-md-6">
                   <div class="about-text">
                     <h3>Our Mission</h3>
                     <p>
                       To Develop And Encourage A Culture Of New Innovations In A
                       Country As A Whole
-                    </p>
-                  </div>
-                </div>
-
-                <div class="col-lg-4 col-md-6 offset-lg-0 offset-md-3">
-                  <div class="about-text">
-                    <h3>Who we are</h3>
-                    <p>
-                      We are a technology business incubator based in ODISHA
-                      supporting and nurturing startup companies.
                     </p>
                   </div>
                 </div>

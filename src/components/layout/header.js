@@ -73,6 +73,15 @@ const Header = ({ siteTitle }) => (
               Apply
             </a>
           </li>
+          <li style={{ marginLeft: 20 }}>
+            <Link className="navbar-brand" to="/">
+              <img
+                style={{ width: "150px" }}
+                src={require("../../assets/img/niti_logo.png")}
+                alt="logo"
+              />
+            </Link>
+          </li>
         </ul>
       </div>
     </nav>
