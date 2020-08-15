@@ -27,7 +27,7 @@ const Resources = () => {
   })
 
   const myfun = a => {
-    return data.allContentfulResources.edges.filter(
+    return data.allContentfulResourceAic.edges.filter(
       item => item.node.tags.map(it => it.toLowerCase()).indexOf(a) !== -1
     )
   }
