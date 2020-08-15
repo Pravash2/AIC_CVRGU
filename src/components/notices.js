@@ -8,7 +8,7 @@ let tags = []
 const Resources = () => {
   const data = useStaticQuery(graphql`
     query MyQuery6 {
-      allContentfulNotice {
+      allContentfulNoticeAic {
         edges {
           node {
             links
@@ -22,12 +22,12 @@ const Resources = () => {
   `)
   const [count, setCount] = useState(-1)
 
-  data.allContentfulNotice.edges.map(d => {
+  data.allContentfulNoticeAic.edges.map(d => {
     tags = [...tags, ...d.node.tags]
   })
 
   const myfun = a => {
-    return data.allContentfulNotice.edges.filter(
+    return data.allContentfulNoticeAic.edges.filter(
       item => item.node.tags.map(it => it.toLowerCase()).indexOf(a) !== -1
     )
   }

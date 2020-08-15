@@ -45,8 +45,35 @@ export default function App() {
       return 1
     }
   }
-  console.log(Responsive())
-  if (items) {
+  const item2 = [
+    { name: "Archis", img: require("../../assets/img/startup/Archis.jpeg") },
+    {
+      name: "Exposit",
+      img: require("../../assets/img/startup/Exposit_Logo.png"),
+    },
+    {
+      name: "Ranjita Analytical & Research Laboratry",
+      img: require("../../assets/img/startup/Ranjita_Analytical_&_Research_Laboratry.jpeg"),
+    },
+    {
+      name: "Easy to Hospital",
+      img: require("../../assets/img/startup/Easy_to_hospital.png"),
+    },
+    {
+      name: "Kalinga Bio Ferti Chemical",
+      img: require("../../assets/img/startup/KALINGA_BIO_FERTI-CHEM_PRIVATE_LIMITED.jpeg"),
+    },
+    {
+      name: "Robocian",
+      img: require("../../assets/img/startup/Robocian.jpeg"),
+    },
+    { name: "Sweetal", img: require("../../assets/img/startup/Sweetal.jpg") },
+    {
+      name: "Parlour Service",
+      img: require("../../assets/img/startup/Parlour_Service.jpeg"),
+    },
+  ]
+  if (item2) {
     return (
       <div id="mentors" className="mentors container">
         <div className="section-title">
@@ -57,21 +84,21 @@ export default function App() {
         <CarouselProvider
           naturalSlideWidth={120}
           naturalSlideHeight={Responsive() < 3 ? 120 : 150}
-          totalSlides={items.length}
+          totalSlides={item2.length}
           visibleSlides={Responsive()}
         >
           <Slider>
-            {items.map(item => (
+            {item2.map(item => (
               <Slide index={0}>
                 <div className="single-team" style={{ padding: "0 10px" }}>
                   <div className="">
                     <img
-                      src={`https:${item.image.file.url}`}
+                      src={item.img}
                       alt="teamimage"
                       className="team-image"
+                      style={{ height: 150 }}
                     />
                   </div>
-
                   <div
                     className="team-content"
                     style={{ padding: "10px 15px" }}

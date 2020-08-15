@@ -7,8 +7,8 @@ let tags = []
 
 const Resources = () => {
   const data = useStaticQuery(graphql`
-    query MyQuery {
-      allContentfulResources {
+    query MyQuery50 {
+      allContentfulResourceAic {
         edges {
           node {
             links
@@ -22,7 +22,7 @@ const Resources = () => {
   `)
   const [count, setCount] = useState(-1)
 
-  data.allContentfulResources.edges.map(d => {
+  data.allContentfulResourceAic.edges.map(d => {
     tags = [...tags, ...d.node.tags]
   })
 
