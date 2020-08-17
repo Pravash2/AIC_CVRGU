@@ -77,6 +77,34 @@ export default class index extends Component {
                     />
                   </a>
                 </div>
+                <div>
+                  <a href="#">
+                    <img
+                      src={require("../../../assets/img/startup/FFDC.jpeg")}
+                      alt="partner"
+                      width="150px"
+                    />
+                    <img
+                      src={require("../../../assets/img/startup/FFDC.jpeg")}
+                      alt="partner"
+                      width="150px"
+                    />
+                  </a>
+                </div>
+                <div>
+                  <a href="#">
+                    <img
+                      src={require("../../../assets/img/startup/Invest_India.png")}
+                      alt="partner"
+                      width="300px"
+                    />
+                    <img
+                      src={require("../../../assets/img/startup/Invest_India.png")}
+                      alt="partner"
+                      width="300px"
+                    />
+                  </a>
+                </div>
               </div>
             </div>
           </div>

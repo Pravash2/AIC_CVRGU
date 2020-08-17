@@ -72,14 +72,6 @@ export default function App() {
       name: "Parlour Service",
       img: require("../../assets/img/startup/Parlour_Service.jpeg"),
     },
-    {
-      name: "FFDC",
-      img: require("../../assets/img/startup/FFDC.jpeg"),
-    },
-    {
-      name: "Invest India",
-      img: require("../../assets/img/startup/Invest_India.png"),
-    },
   ]
   if (item2) {
     return (
