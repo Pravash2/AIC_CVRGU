@@ -189,7 +189,7 @@ export default class SimpleSlider extends React.Component {
 
                 <div className="team-content" style={{ padding: "10px 5px" }}>
                   <div className="">
-                    <h4>Mr. Anoop Kumar Daduvai</h4>
+                    <h4>Anoop Kumar Daduvai</h4>
                     <span>CEO</span>
                   </div>
 
@@ -271,7 +271,7 @@ export default class SimpleSlider extends React.Component {
 
                 <div className="team-content" style={{ padding: "10px 5px" }}>
                   <div className="">
-                    <h4>Mr . Lalat Kishore Choudhury</h4>
+                    <h4>Lalat Kishore Choudhury</h4>
                     <span>Incubation Technical Manager</span>
                   </div>
 
@@ -312,7 +312,7 @@ export default class SimpleSlider extends React.Component {
 
                 <div className="team-content" style={{ padding: "10px 5px" }}>
                   <div className="">
-                    <h4>Mrs. Sonuka Jena</h4>
+                    <h4>Sonuka Jena</h4>
                     <span>Incubation Manager</span>
                   </div>
 
