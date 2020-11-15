@@ -156,7 +156,7 @@ class Footer extends React.Component {
                   <p>Copyright @2020 AIC-CGU. All rights reserved</p>
                   <p>
                     Curated with <i className="fa fa-heart"></i> by{" "}
-                    <a href="http://www.pravash.tech" target="_blank">
+                    <a href="https://www.pravash.me" target="_blank">
                       {" "}
                       <span>Pravash</span>
                     </a>
