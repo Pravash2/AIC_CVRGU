@@ -181,7 +181,7 @@ export default class SimpleSlider extends React.Component {
               <div className="single-team" style={{ padding: 0 }}>
                 <div className="">
                   <img
-                    src={require("../../../assets/img/team-image/team2.png")}
+                    src={require("../../../assets/img/team-image/team13.jpg")}
                     alt="teamimage"
                     style={{ width: "80%" }}
                   />
@@ -189,7 +189,7 @@ export default class SimpleSlider extends React.Component {
 
                 <div className="team-content" style={{ padding: "10px 5px" }}>
                   <div className="">
-                    <h4>Anoop Kumar Daduvai</h4>
+                    <h4>Mr. Bhagabati Pattnaik</h4>
                     <span>CEO</span>
                   </div>
 
